@@ -13,11 +13,12 @@
 ```
 # Dependências necessárias
 ```sh
-- React: ^16.13.1
-- React-dom: ^16.13.1
+- React: ^17.0.2
+- React-dom: ^17.0.2
 - React-router-dom: ^5.2.0
-- React-scripts: 3.4.1
-- Typescript: 3.7.2
+- React-scripts: 5.0.0
+- TypeScript: ~4.5.5
+
 ```
 
 ## Como rodar esse projeto
